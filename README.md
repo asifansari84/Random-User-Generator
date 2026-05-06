@@ -4,15 +4,8 @@ A clean React application that fetches and displays a random user profile from t
 
 ## Live Links
 
-- Repository: `Add your GitHub repository link here`
-- Demo: `Add your deployed demo link here`
-
-Example:
-
-```md
-- Repository: https://github.com/your-username/api-random-user
-- Demo: https://api-random-user.vercel.app
-```
+- Repository: `https://github.com/asifansari84/Random-User-Generator`
+- Demo: `https://random-user-generator-green.vercel.app/`
 
 ## Features
 
